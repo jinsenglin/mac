@@ -1,3 +1,7 @@
+# Golang on 2016-01-10_at14:53:31
+export GOPATH="/Users/cclin/go-workspace"
+export PATH="$PATH:$GOPATH/bin"
+
 # MacPorts Installer addition on 2015-08-06_at_22:21:31: adding an appropriate PATH variable for use with MacPorts.
 export PATH="/opt/local/bin:/opt/local/sbin:$PATH"
 # Finished adapting your PATH environment variable for use with MacPorts.
