@@ -1,5 +1,6 @@
 # Tweak the OSX Terminal to display colors on 2016-01-10_at_14:40:31
-export CLICOLOR=1;
+export CLICOLOR=1
+export LSCOLORS=ExFxBxDxCxegedabagacad
 
 # Golang on 2016-01-10_at_13:53:31
 export GOPATH="/Users/cclin/go-workspace"
