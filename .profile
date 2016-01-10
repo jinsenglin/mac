@@ -1,4 +1,7 @@
-# Golang on 2016-01-10_at14:53:31
+# Tweak the OSX Terminal to display colors on 2016-01-10_at_14:40:31
+export CLICOLOR=1;
+
+# Golang on 2016-01-10_at_13:53:31
 export GOPATH="/Users/cclin/go-workspace"
 export PATH="$PATH:$GOPATH/bin"
 
