@@ -1,3 +1,6 @@
+# Tweak the OSX Terminal to customize bash prompt format on 2016-01-24_at_20:18:31
+export PS1="\u@\h:\w \\$ "
+
 # Tweak the OSX Terminal to display colors on 2016-01-10_at_14:40:31
 export CLICOLOR=1
 export LSCOLORS=ExFxBxDxCxegedabagacad
