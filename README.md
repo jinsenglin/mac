@@ -1,5 +1,6 @@
 # Built-In
 
+* ssh-keygen
 * gcc
 * g++
 * make
@@ -102,6 +103,9 @@
 ---
 
 # profile and bashrc
+
+By default there are no ~/{.profile, .bash_profile, .bashrc}
+
 - /private/etc/profile
 - /private/etc/bashrc
 - /etc/profile # 開機後被 /private/etc/profile 覆蓋
