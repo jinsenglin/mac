@@ -28,6 +28,7 @@
 * Homebrew
 * nvm
 * rvm
+* jmeter
 
 ---
 
