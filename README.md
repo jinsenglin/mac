@@ -73,7 +73,7 @@
 * Chrome # Download -> Open -> Drop into Applications -> Reject -> Remove
 * VirtualBox # see VIRTUALBOX.md
 * Vagrant
-* Docker
+* Docker # see DOCKER.md
 * iTerm 2
 * PyCharm
 * Wireshark
