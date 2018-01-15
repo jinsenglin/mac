@@ -82,7 +82,7 @@
 
 # easy_install
 
-* pip
+* pip # see PIP.md
 
 ---
 
