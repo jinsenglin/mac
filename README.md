@@ -28,13 +28,13 @@
 # Script File
 
 * Homebrew # see HOMEBREW.md
+* rvm
 
 ---
 
 # Homebrew
 
 * nvm
-* rvm
 * pyenv
 * jmeter
 * OpenCV
