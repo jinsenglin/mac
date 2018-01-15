@@ -10,5 +10,5 @@ download 2 files
 
 install 2 files
 
-* Download -> Open -> Double click .pkg file -> Eject -> Remove
+* Download -> Open -> Open .pkg file -> Move to trash -> Eject -> Remove
 * To install an extension, simply double-click on the package file and a Network Operations Manager window will appear, guiding you through the required steps.

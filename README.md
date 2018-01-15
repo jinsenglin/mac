@@ -83,7 +83,7 @@
 
 * Chrome # Download -> Open -> Drop into Applications -> Eject -> Remove
 * VirtualBox # see VIRTUALBOX.md
-* Vagrant
+* Vagrant # Download -> Open -> Open .pkg file -> Move to trash -> Eject -> Remove
 * Docker # see DOCKER.md
 * iTerm 2
 * PyCharm
