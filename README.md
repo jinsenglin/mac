@@ -39,6 +39,10 @@
 
 # BIN File
 
+* bosh
+* bosh-init
+* fly
+
 ---
 
 # TARBALL File
