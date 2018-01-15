@@ -21,6 +21,7 @@
 # App Store
 
 * Xcode
+* Evernote
 * Line
 
 ---
@@ -57,7 +58,6 @@
 
 # DMG File
 
-* Evernote
 * iTerm 2
 * Chrome
 * VirtualBox
