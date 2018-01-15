@@ -88,7 +88,7 @@
 
 # pip install
 
-* virtualenv
+* virtualenv # see VIRTUALENV.md
 * tensorflow
 * openstackclient
 
