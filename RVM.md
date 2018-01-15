@@ -68,3 +68,10 @@ Creating alias default for ruby-2.4.1...
   * To start using RVM you need to run `source /Users/cclin/.rvm/scripts/rvm`
     in all your open shell windows, in rare cases you need to reopen all shell windows.
 ```
+
+```
+# note
+# will automatically use `brew install` following packages
+
+autoconf	automake	coreutils	libgpg-error	libksba		libtool		libyaml		openssl@1.1	pkg-config	readline
+```
