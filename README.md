@@ -8,6 +8,8 @@
 * easy_install
 * ruby
 * gem
+* java
+* javac
 * git
 * md5
 * curl
