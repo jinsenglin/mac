@@ -81,7 +81,7 @@
 
 # DMG File
 
-* Chrome # Download -> Open -> Drop into Applications -> Reject -> Remove
+* Chrome # Download -> Open -> Drop into Applications -> Eject -> Remove
 * VirtualBox # see VIRTUALBOX.md
 * Vagrant
 * Docker # see DOCKER.md
