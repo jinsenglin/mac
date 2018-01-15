@@ -10,4 +10,8 @@ What the install includes: The installation provides `Docker Engine`, `Docker CL
 
 see https://docs.docker.com/docker-for-mac/kubernetes/
 
-Kubernetes is only available in Docker for Mac 17.12 CE Edge. Kubernetes support is not included in Docker for Mac 17.12 CE Stable. 
+Kubernetes is only available in Docker for Mac 17.12 CE Edge. Kubernetes support is not included in Docker for Mac 17.12 CE Stable.
+
+---
+
+Download -> Open -> Drop into Applications -> Eject -> Remove
