@@ -12,6 +12,7 @@
 * javac
 * git
 * md5
+* base64
 * curl
 * screen
 * awk
@@ -56,6 +57,7 @@
 * tmux
 * wget
 * htop
+* jq
 
 ---
 
