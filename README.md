@@ -71,7 +71,7 @@
 # DMG File
 
 * Chrome # Download -> Open -> Drop into Applications -> Reject -> Remove
-* VirtualBox
+* VirtualBox # see VIRTUALBOX.md
 * Vagrant
 * Docker
 * iTerm 2
