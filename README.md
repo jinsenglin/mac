@@ -47,6 +47,12 @@
 
 ---
 
+# PKG File
+
+* Golang
+
+---
+
 # profile and bashrc
 - /private/etc/profile
 - /private/etc/bashrc
