@@ -31,6 +31,10 @@
 
 ---
 
+# BIN File
+
+---
+
 # DMG File
 
 * Evernote
