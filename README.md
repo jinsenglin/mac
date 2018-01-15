@@ -9,6 +9,14 @@
 * ruby
 * gem
 * git
+* md5
+* curl
+* screen
+* awk
+* sed
+* grep
+* tar
+* unzip
 
 ---
 
@@ -31,6 +39,10 @@
 * Homebrew # see HOMEBREW.md
 * rvm # see RVM.md
 * nvm # see NVM.md
+* tree
+* tmux
+* wget
+* htop
 
 ---
 
