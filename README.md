@@ -26,7 +26,7 @@
 
 # Script File
 
-* Homebrew
+* Homebrew # see HOMEBREW.md
 
 ---
 
