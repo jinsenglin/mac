@@ -58,11 +58,11 @@
 
 # DMG File
 
-* iTerm 2
 * Chrome
 * VirtualBox
 * Vagrant
 * Docker
+* iTerm 2
 * PyCharm
 * Wireshark
 * Zoom
