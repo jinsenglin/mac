@@ -27,17 +27,18 @@
 # Script File
 
 * Homebrew
-* nvm
-* rvm
-* jmeter
-* OpenCV
-* gnu-sed
 
 ---
 
 # Homebrew
 
+* nvm
+* rvm
 * pyenv
+* jmeter
+* OpenCV
+* gnu-sed
+* allegro
 
 ---
 
