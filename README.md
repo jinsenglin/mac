@@ -4,6 +4,7 @@
 * g++
 * make
 * python
+* easy_install
 * ruby
 * gem
 * git
@@ -12,7 +13,6 @@
 
 # TBD
 
-* pip
 * npm
 
 ---
@@ -75,6 +75,12 @@
 ---
 
 # npm install
+
+---
+
+# easy_install
+
+* pip
 
 ---
 
