@@ -114,6 +114,10 @@
 
 ---
 
+# vagrant plugin install
+
+---
+
 # ~/.profile vs. ~/.bash_profile vs. ~/.bashrc
 
 By default there are no ~/{.profile, .bash_profile, .bashrc}
