@@ -70,7 +70,7 @@
 
 # DMG File
 
-* Chrome
+* Chrome # Download -> Open -> Drop into Applications
 * VirtualBox
 * Vagrant
 * Docker
