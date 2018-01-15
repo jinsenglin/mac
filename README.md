@@ -28,7 +28,7 @@
 # Script File
 
 * Homebrew # see HOMEBREW.md
-* rvm
+* rvm # see RVM.md
 
 ---
 
