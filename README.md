@@ -102,13 +102,17 @@
 
 ---
 
-# profile and bashrc
+# ~/.profile vs. ~/.bash_profile vs. ~/.bashrc
 
 By default there are no ~/{.profile, .bash_profile, .bashrc}
 
-- /private/etc/profile
-- /private/etc/bashrc
-- /etc/profile # 開機後被 /private/etc/profile 覆蓋
-- /etc/bashrc # 開機後被 /private/etc/bashrc 覆蓋
-- ~/.profile # 開機不執行 ; 開終端機會執行 (如果檔案 ~/.bash_profile 存在 , 就僅執行 ~/.bash_profile , 不執行 ~/.profile)
-- ~/.bashrc # 開機不執行 ; 開終端機不執行
+* /private/etc/profile
+* /private/etc/bashrc
+* /etc/profile # 開機後被 /private/etc/profile 覆蓋
+* /etc/bashrc # 開機後被 /private/etc/bashrc 覆蓋
+* ~/.profile # 開機不執行 ; 開終端機會執行 (如果檔案 ~/.bash_profile 存在 , 就僅執行 ~/.bash_profile , 不執行 ~/.profile)
+* ~/.bashrc # 開機不執行 ; 開終端機不執行
+
+Addtional Resources
+
+* https://scriptingosx.com/2017/04/about-bash_profile-and-bashrc-on-macos/
