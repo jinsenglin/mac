@@ -1,4 +1,46 @@
-# mac
+# Built-In
+
+* python
+* ruby
+* git
+
+---
+
+# TBD
+
+* rvm
+* pyenv
+
+---
+
+# App Store
+
+* Xcode
+* Line
+
+---
+
+# Script File
+
+* Homebrew
+
+---
+
+# Homebrew
+
+* ?
+
+---
+
+# DMG File
+
+* iTerm2
+* Chrome
+* VirtualBox
+* Vagrant
+* Docker
+
+---
 
 # profile and bashrc
 - /private/etc/profile
