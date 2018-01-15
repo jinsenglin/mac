@@ -1,12 +1,18 @@
 # Built-In
 
+* gcc
+* make
 * python
 * ruby
+* gem
 * git
 
 ---
 
 # TBD
+
+* pip
+* npm
 
 ---
 
