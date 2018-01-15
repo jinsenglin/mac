@@ -34,11 +34,16 @@
 
 # DMG File
 
-* iTerm2
+* Evernote
+* iTerm 2
 * Chrome
 * VirtualBox
 * Vagrant
 * Docker
+* PyCharm
+* Wireshark
+* Zoom
+* TeamViewer
 
 ---
 
