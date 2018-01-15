@@ -86,8 +86,8 @@
 * Vagrant # Download -> Open -> Open .pkg file -> Move to trash -> Eject -> Remove
 * Docker # see DOCKER.md
 * iTerm 2
-* PyCharm
-* Wireshark
+* PyCharm # Download -> Open -> Drop into Applications -> Eject -> Remove
+* Wireshark # Download -> Open -> Open .pkg file -> Move to trash -> Eject -> Remove
 * Zoom
 * TeamViewer
 
@@ -95,7 +95,7 @@
 
 # PKG File
 
-* Golang
+* Golang # Download -> Open -> Move to trash -> Remove 
 
 ---
 
