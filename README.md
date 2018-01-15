@@ -1,6 +1,7 @@
 # Built-In
 
 * gcc
+* g++
 * make
 * python
 * ruby
@@ -29,6 +30,8 @@
 * nvm
 * rvm
 * jmeter
+* OpenCV
+* gnu-sed
 
 ---
 
@@ -77,13 +80,17 @@
 
 # pip install
 
+* virtualenv
+* tensorflow
+* openstackclient
+
 ---
 
 # gem install
 
 ---
 
-# go  install
+# go install
 
 ---
 
