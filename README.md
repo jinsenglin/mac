@@ -29,12 +29,12 @@
 
 * Homebrew # see HOMEBREW.md
 * rvm # see RVM.md
+* nvm # see NVM.md
 
 ---
 
 # Homebrew
 
-* nvm
 * pyenv
 * jmeter
 * OpenCV
