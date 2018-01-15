@@ -35,7 +35,7 @@
 
 # Homebrew
 
-* pyenv
+* pyenv # see PYENV.md
 * jmeter
 * OpenCV
 * gnu-sed
