@@ -39,20 +39,21 @@
 * Homebrew # see HOMEBREW.md
 * rvm # see RVM.md
 * nvm # see NVM.md
-* tree
-* tmux
-* wget
-* htop
 
 ---
 
 # Homebrew
 
 * pyenv # see PYENV.md
+* Homebrew-Cask # see https://caskroom.github.io/
 * jmeter
 * OpenCV
 * gnu-sed
 * allegro
+* tree
+* tmux
+* wget
+* htop
 
 ---
 
