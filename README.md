@@ -8,9 +8,6 @@
 
 # TBD
 
-* rvm
-* pyenv
-
 ---
 
 # App Store
@@ -23,12 +20,14 @@
 # Script File
 
 * Homebrew
+* nvm
+* rvm
 
 ---
 
 # Homebrew
 
-* ?
+* pyenv
 
 ---
 
@@ -50,6 +49,22 @@
 # PKG File
 
 * Golang
+
+---
+
+# npm install
+
+---
+
+# pip install
+
+---
+
+# gem install
+
+---
+
+# go  install
 
 ---
 
