@@ -61,7 +61,7 @@
 * tmux
 * wget
 * htop # see HTOP.md
-* jq
+* jq # see JQ.md
 * unrar
 
 ---
