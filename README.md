@@ -124,6 +124,7 @@
 # pip install
 
 * virtualenv # see VIRTUALENV.md
+* jupyter
 * tensorflow
 * openstackclient
 
