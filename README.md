@@ -65,6 +65,7 @@
 * jq # see JQ.md
 * unrar
 * maven
+* azure-cli
 
 ---
 
@@ -89,6 +90,7 @@
 # ZIP File
 
 * iTerm 2 # Download -> Unzip -> Open -> Move to Applications -> Remove
+* google-cloud-sdk
 
 ---
 
@@ -127,6 +129,8 @@
 * jupyter
 * tensorflow
 * openstackclient
+* awscli
+* aliyuncli
 
 ---
 
