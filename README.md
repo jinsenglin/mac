@@ -151,6 +151,14 @@
 
 ---
 
+# vagrant box add
+
+---
+
+# docker image pull
+
+---
+
 # ~/.profile vs. ~/.bash_profile vs. ~/.bashrc
 
 By default there are no ~/{.profile, .bash_profile, .bashrc}
