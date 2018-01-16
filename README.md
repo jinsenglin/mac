@@ -26,7 +26,7 @@
 
 # TBD
 
-* npm
+* npm # 使用 nvm 安裝 node 時也會同時安裝 npm
 
 ---
 
