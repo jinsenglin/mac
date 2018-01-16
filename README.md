@@ -59,7 +59,7 @@
 * allegro
 * tree # see TREE.md
 * tmux # see TMUX.md
-* wget
+* wget # see WGET.md
 * htop # see HTOP.md
 * jq # see JQ.md
 * unrar
