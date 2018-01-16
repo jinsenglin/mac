@@ -137,6 +137,10 @@
 
 ---
 
+# mvn install
+
+---
+
 # vagrant plugin install
 
 ---
