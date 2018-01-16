@@ -48,3 +48,43 @@ export NVM_DIR="$HOME/.nvm"
 
 echo "source ~/.bashrc # Load NVM" >> ~/.bash_profile
 ```
+
+----
+
+# Usage
+
+Activate nvm
+
+```
+TODO
+```
+
+Switch current shell session's node version to 6.10.0
+
+```
+nvm use 6.10.0
+```
+
+Show current shell session's node version
+
+```
+TODO
+```
+
+Show all installed node versions
+
+```
+nvm ls
+```
+
+Install node version 6.10.0
+
+```
+nvm install 6.10.0
+```
+
+Uninstall node version 6.10.0
+
+```
+nvm uninstall 6.10.0
+```
