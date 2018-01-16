@@ -60,6 +60,7 @@
 * wget
 * htop
 * jq
+* unrar
 
 ---
 
