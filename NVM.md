@@ -56,7 +56,7 @@ echo "source ~/.bashrc # Load NVM" >> ~/.bash_profile
 Activate nvm
 
 ```
-TODO
+see ~/.bashrc
 ```
 
 Switch current shell session's node version to 6.10.0
@@ -68,7 +68,7 @@ nvm use 6.10.0
 Show current shell session's node version
 
 ```
-TODO
+nvm version
 ```
 
 Show all installed node versions
