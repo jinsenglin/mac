@@ -54,8 +54,8 @@
 * jmeter
 * OpenCV
 * gnu command line tools
-  * # see https://www.topbug.net/blog/2013/04/14/install-and-use-gnu-command-line-tools-in-mac-os-x/
-  * # see https://github.com/Homebrew/homebrew-core/issues/15786
+  * see https://www.topbug.net/blog/2013/04/14/install-and-use-gnu-command-line-tools-in-mac-os-x/
+  * see https://github.com/Homebrew/homebrew-core/issues/15786
 * allegro
 * tree
 * tmux
