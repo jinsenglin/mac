@@ -50,7 +50,7 @@
 
 * pyenv # see PYENV.md
 * pyenv-virtualenv # see https://github.com/pyenv/pyenv-virtualenv
-* Homebrew-Cask # see https://caskroom.github.io/
+* Homebrew-Cask # see HOMEBREW-CASK.md
 * jmeter
 * OpenCV
 * gnu command line tools
