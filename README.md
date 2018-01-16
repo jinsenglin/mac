@@ -49,7 +49,7 @@
 # Homebrew
 
 * pyenv # see PYENV.md
-* pyenv-virtualenv # see https://github.com/pyenv/pyenv-virtualenv
+* pyenv-virtualenv # see PYENV-VIRTUALENV.md
 * Homebrew-Cask # see HOMEBREW-CASK.md
 * jmeter
 * OpenCV
