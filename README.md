@@ -131,6 +131,7 @@
 * openstackclient
 * awscli
 * aliyuncli
+* ansible
 
 ---
 
