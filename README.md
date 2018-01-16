@@ -53,6 +53,7 @@
 * Homebrew-Cask # see https://caskroom.github.io/
 * jmeter
 * OpenCV
+* coreutils
 * gnu-sed
 * allegro
 * tree
