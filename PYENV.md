@@ -53,3 +53,49 @@ zsh functions have been installed to:
 ==> Summary
 🍺  /usr/local/Cellar/pyenv/1.2.1: 584 files, 2.3MB
 ```
+
+---
+
+# Usage
+
+Activate pyenv
+
+```
+eval "$(pyenv init -)"
+```
+
+Switch current shell session's python version to 2.7.13
+
+```
+pyenv shell 2.7.13
+```
+
+Show current shell session's python version
+
+```
+pyenv version
+```
+
+Show all installed python versions
+
+```
+pyenv versions
+```
+
+Install python version 2.7.13
+
+```
+pyenv install 2.7.13
+```
+
+Uninstall python version 2.7.13
+
+```
+pyenv uninstall 2.7.13
+```
+
+---
+
+# Priority
+
+`pyenv shell` > `pyenv local` > `pyenv global`
