@@ -88,3 +88,9 @@ Uninstall node version 6.10.0
 ```
 nvm uninstall 6.10.0
 ```
+
+---
+
+# Don't sudo
+
+On OS X, if you have/had a "system" node installed and want to install modules globally, keep in mind that: When using nvm you do not need sudo to globally install a module with npm -g, so instead of doing sudo npm install -g grunt, do instead `npm install -g grunt`.
