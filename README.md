@@ -63,6 +63,7 @@
 * htop # see HTOP.md
 * jq # see JQ.md
 * unrar
+* maven
 
 ---
 
