@@ -57,8 +57,8 @@
   * see https://www.topbug.net/blog/2013/04/14/install-and-use-gnu-command-line-tools-in-mac-os-x/
   * see https://github.com/Homebrew/homebrew-core/issues/15786
 * allegro
-* tree
-* tmux
+* tree # see TREE.md
+* tmux # see TMUX.md
 * wget
 * htop # see HTOP.md
 * jq # see JQ.md
