@@ -53,7 +53,7 @@
 * Homebrew-Cask # see https://caskroom.github.io/
 * jmeter
 * OpenCV
-* coreutils
+* gnu command line tools # see https://www.topbug.net/blog/2013/04/14/install-and-use-gnu-command-line-tools-in-mac-os-x/
 * gnu-sed
 * allegro
 * tree
