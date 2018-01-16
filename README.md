@@ -21,6 +21,7 @@
 * tar
 * unzip
 * vim
+* rsync
 
 ---
 
