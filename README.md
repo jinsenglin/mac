@@ -60,7 +60,7 @@
 * tree
 * tmux
 * wget
-* htop
+* htop # see HTOP.md
 * jq
 * unrar
 
