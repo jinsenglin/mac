@@ -164,6 +164,7 @@
 * nginx
 * httpd
 * stephenhsu/keystone
+* quay.io/coreos/etcd:v2.3.8
 
 ---
 
