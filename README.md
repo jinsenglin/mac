@@ -151,6 +151,10 @@
 
 # vagrant box add
 
+* bento/ubuntu-16.04 --box-version 2.3.8
+* bento/centos-7.2 --box-version 2.3.1
+* bento/centos-7.4 --box-version 201801.02.0
+
 ---
 
 # docker image pull
