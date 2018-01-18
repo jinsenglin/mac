@@ -160,6 +160,10 @@
 
 # docker image pull
 
+* busybox
+* nginx
+* httpd
+
 ---
 
 # ~/.profile vs. ~/.bash_profile vs. ~/.bashrc
