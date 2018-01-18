@@ -75,6 +75,7 @@
 
 # BIN File
 
+* minikube
 * bosh
 * bosh-init
 * fly
