@@ -34,6 +34,7 @@
 * Xcode
 * Evernote
 * Line
+* Dr. Cleaner
 
 ---
 
