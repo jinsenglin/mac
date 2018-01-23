@@ -43,6 +43,7 @@
 * Homebrew # see HOMEBREW.md
 * rvm # see RVM.md
 * nvm # see NVM.md
+* oh my zsh
 
 ---
 
