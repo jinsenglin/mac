@@ -106,6 +106,7 @@
 * Wireshark # Download -> Open -> Open .pkg file -> Move to trash -> Eject -> Remove
 * Zoom
 * TeamViewer
+* Android File Transfer
 
 ---
 
