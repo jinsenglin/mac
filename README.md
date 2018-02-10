@@ -22,6 +22,7 @@
 * unzip
 * vim
 * rsync
+* script
 
 ---
 
@@ -66,6 +67,7 @@
 * unrar
 * maven
 * azure-cli
+* asciinema
 
 ---
 
