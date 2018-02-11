@@ -68,6 +68,7 @@
 * maven
 * azure-cli
 * asciinema
+* libvirt
 
 ---
 
