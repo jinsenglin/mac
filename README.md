@@ -69,6 +69,7 @@
 * azure-cli
 * asciinema
 * libvirt
+* qemu
 
 ---
 
