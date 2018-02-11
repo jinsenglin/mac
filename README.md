@@ -70,6 +70,8 @@
 * asciinema
 * libvirt
 * qemu
+* virt-manager
+* virt-viewer
 
 ---
 
