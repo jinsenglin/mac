@@ -76,6 +76,7 @@
 # Homebrew-Cask
 
 * macdown
+* xquartz
 
 ---
 
