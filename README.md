@@ -68,8 +68,8 @@
 * maven
 * azure-cli
 * asciinema
-* libvirt
 * qemu
+* libvirt
 * virt-manager
 * virt-viewer
 
