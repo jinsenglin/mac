@@ -100,6 +100,7 @@
 * iTerm 2 # Download -> Unzip -> Open -> Move to Applications -> Remove
 * google-cloud-sdk
 * AppCleaner
+* Visual Studio Code
 
 ---
 
