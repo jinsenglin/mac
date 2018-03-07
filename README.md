@@ -13,7 +13,7 @@
 * git
 * md5
 * base64
-* curl
+* curl # NEED BE REPLACE BY `brew install curl --with-nghttp2` TO SUPPORT openssl
 * screen
 * awk
 * sed
