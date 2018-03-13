@@ -72,6 +72,7 @@
 * libvirt
 * virt-manager
 * virt-viewer
+* direnv
 
 ---
 
