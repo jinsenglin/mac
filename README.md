@@ -96,6 +96,8 @@
 
 # TARBALL File
 
+* helm
+
 ---
 
 # ZIP File
