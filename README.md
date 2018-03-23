@@ -73,6 +73,7 @@
 * virt-manager
 * virt-viewer
 * direnv
+* draft
 
 ---
 
@@ -89,6 +90,7 @@
 * bosh
 * bosh-init
 * fly
+* skaffold
 
 ---
 
