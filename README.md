@@ -74,6 +74,7 @@
 * virt-viewer
 * direnv
 * draft
+* rrdtool
 
 ---
 
