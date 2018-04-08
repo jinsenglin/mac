@@ -223,3 +223,15 @@ Addtional Resources
 # Note
 
 * npm # 使用 nvm 安裝 node 時也會同時安裝 npm
+
+---
+
+# Terminal vs. iTerm2
+
+when `exit`
+
+Terminal will not close the current tab automatically. iTerms will.
+
+when `command + t` to open a new tab
+
+Terminal will use the current working directory. iTerms wont.
