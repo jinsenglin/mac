@@ -41,29 +41,29 @@
 
 # Script File
 
-* Homebrew # see HOMEBREW.md
-* rvm # see RVM.md
-* nvm # see NVM.md
+* [Homebrew](HOMEBREW.md)
+* [rvm](RVM.md)
+* [nvm](NVM.md)
 * oh my zsh
 
 ---
 
 # Homebrew
 
-* pyenv # see PYENV.md
-* pyenv-virtualenv # see PYENV-VIRTUALENV.md
-* Homebrew-Cask # see HOMEBREW-CASK.md
+* [pyenv](PYENV.md)
+* [pyenv-virtualenv](PYENV-VIRTUALENV.md)
+* [Homebrew-Cask](HOMEBREW-CASK.md)
 * jmeter
 * OpenCV
 * gnu command line tools
   * see https://www.topbug.net/blog/2013/04/14/install-and-use-gnu-command-line-tools-in-mac-os-x/
   * see https://github.com/Homebrew/homebrew-core/issues/15786
 * allegro
-* tree # see TREE.md
-* tmux # see TMUX.md
-* wget # see WGET.md
-* htop # see HTOP.md
-* jq # see JQ.md
+* [tree](TREE.md)
+* [tmux](TMUX.md)
+* [wget](WGET.md)
+* [htop](HTOP.md)
+* [jq](JQ.md)
 * unrar
 * maven
 * azure-cli
@@ -113,9 +113,9 @@
 # DMG File
 
 * Chrome # Download -> Open -> Drop into Applications -> Eject -> Remove
-* VirtualBox # see VIRTUALBOX.md
+* [VirtualBox](VIRTUALBOX.md)
 * Vagrant # Download -> Open -> Open .pkg file -> Move to trash -> Eject -> Remove
-* Docker # see DOCKER.md
+* [Docker](DOCKER.md)
 * PyCharm # Download -> Open -> Drop into Applications -> Eject -> Remove
 * Wireshark # Download -> Open -> Open .pkg file -> Move to trash -> Eject -> Remove
 * Zoom
@@ -136,13 +136,13 @@
 
 # easy_install
 
-* pip # see PIP.md
+* [pip](PIP.md)
 
 ---
 
 # pip install
 
-* virtualenv # see VIRTUALENV.md
+* [virtualenv](VIRTUALENV.md)
 * jupyter
 * tensorflow
 * openstackclient
