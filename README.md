@@ -235,3 +235,13 @@ Terminal will not close the current tab automatically. iTerms will.
 when `command + t` to open a new tab
 
 Terminal will use the current working directory. iTerms wont.
+
+---
+
+# 一般設定
+
+設定中英輸入法切換快速鍵 `caps lock`
+
+```
+Spotlight Search -> Keyboard -> Input Sources -> Use th Caps Lock key ...
+```
