@@ -245,3 +245,9 @@ Terminal will use the current working directory. iTerms wont.
 ```
 Spotlight Search -> Keyboard -> Input Sources -> Use th Caps Lock key ...
 ```
+
+設定觸碰板點擊
+
+```
+Spotlight Search -> Trackpad -> Tap to click
+```
