@@ -246,6 +246,24 @@ Terminal will use the current working directory. iTerms wont.
 Spotlight Search -> Keyboard -> Input Sources -> Use th Caps Lock key ...
 ```
 
+取消自動首字大寫
+
+```
+Spotlight Search -> Keyboard -> Text -> Capitalize words automatically
+```
+
+取消自動錯字校正
+
+```
+Spotlight Search -> Keyboard -> Text -> Correct spelling automatically
+```
+
+取消自動單雙引號校正
+
+```
+Spotlight Search -> Keyboard -> Text -> Use smart quotes and dashes
+```
+
 設定觸碰板點擊
 
 ```
