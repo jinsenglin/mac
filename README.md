@@ -166,6 +166,8 @@
 
 # vagrant plugin install
 
+* vagrant plugin install vagrant-vbguest
+
 ---
 
 # vagrant box add
