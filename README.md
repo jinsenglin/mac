@@ -35,7 +35,7 @@
 * Xcode
 * Evernote
 * Line
-* Dr. Cleaner
+* Dr. Cleaner # 沒有 App Cleaner 好用，好用的功能都在付費版
 
 ---
 
