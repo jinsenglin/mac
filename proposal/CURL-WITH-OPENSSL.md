@@ -14,4 +14,4 @@ brew link curl --force
 
 # Reference
 
-* https://github.com/curl/curl/issues/283
+* [OS X: Using PEM private keys fail with error: OSStatus -25299](https://github.com/curl/curl/issues/283)
