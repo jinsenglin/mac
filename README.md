@@ -18,7 +18,7 @@
 * awk
 * sed
 * grep
-* tar
+* tar # BSD NOT GNU
 * unzip
 * vim
 * rsync
@@ -75,6 +75,7 @@
 * direnv
 * draft
 * rrdtool
+* gnu-tar
 
 ---
 
