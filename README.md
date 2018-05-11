@@ -204,6 +204,7 @@ By default there are no ~/{.profile, .bash_profile, .bashrc}
 Addtional Resources
 
 * https://scriptingosx.com/2017/04/about-bash_profile-and-bashrc-on-macos/
+* https://github.com/jinsenglin/rc/blob/master/OSX.bash_profile
 
 ---
 
