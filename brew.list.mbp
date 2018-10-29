@@ -1,0 +1,37 @@
+openssl
+curl
+wget
+gpg (gnupg)
+git
+go
+asciinema
+jq
+base64
+tree
+vim
+nmap
+tmux
+htop
+sed (gnu-sed)
+tar (gnu-tar)
+awk
+direnv
+unrar
+watch
+sshpass
+mysql
+sqlite
+postgresql
+
+#python -> python2
+#python2    # macOS built-in
+#virtualenv # macOS built-in
+pyenv                           # pyenv versions
+python3
+
+#rvm        # see ~/.profile    # rvm list
+ruby        # required by vim
+
+#nvm        # see ~/.profile    # nvm list
+#node       # managed by nvm
+#npm        # managed by nvm
