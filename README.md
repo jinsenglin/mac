@@ -13,10 +13,10 @@
 * git
 * md5
 * base64
-* curl # NEED BE REPLACE BY `brew install curl --with-nghttp2; brew link curl --force` TO SUPPORT openssl
+* curl # NEED BE REPLACED BY `brew install curl --with-nghttp2; brew link curl --force` TO SUPPORT openssl
 * screen
 * awk
-* sed
+* sed # NEED BE REPLACED BY `brew install gnu-sed --with-default-names`
 * grep
 * tar # BSD NOT GNU
 * unzip
